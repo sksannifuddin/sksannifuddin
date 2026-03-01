@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sksannifuddin
 - 👀 I’m interested in coding skills
-- 🌱 I’m currently  learning Web development
+- 🌱 I’m currently  learning python, AI, Machine learning, deep learning, NLP, generative ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
