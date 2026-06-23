@@ -23,6 +23,12 @@ placement-preparation-2027
 📫 Email:
 sksannifuddin04@gmail.com
 
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksannifuddin&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksannifuddin&layout=compact&theme=tokyonight)
+
 <!---
 sksannifuddin/sksannifuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
