@@ -1,19 +1,47 @@
 <h1 align="center">Sk Sannifuddin</h1>
 
-<h3 align="center">AI & Data Science Student | Future ML Engineer</h3>
+<h3 align="center">
+AI & Data Science Student | Future ML Engineer
+</h3>
 
 <p align="center">
 Python • SQL • Machine Learning • Deep Learning • NLP • GenAI
 </p>
 
 <p align="center">
-Preparing for Placements 2027
+🚀 Preparing for Placements 2027
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sksannifuddin&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksannifuddin&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+---
+
+### About Me
+
+- 🎓 AI & Data Science Undergraduate
+- 💻 Currently mastering Python, Data Analysis and Machine Learning
+- 📚 Building projects daily and documenting my learning journey
+- 🎯 Goal: Become placement-ready before December 2026
+- 🌱 Learning ML, DL, NLP and Generative AI
+
+---
+
+### Current Repository
+
+⭐ placement-preparation-2027
+
+Daily updates of:
+- Python
+- NumPy
+- Pandas
+- SQL
+- Statistics
+- Feature Engineering
+- Machine Learning
+
+---
+
+### Contact
+
+📧 sksannifuddin04@gmail.com
 
 <!---
 sksannifuddin/sksannifuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
