@@ -43,6 +43,27 @@ Daily updates of:
 
 📧 sksannifuddin04@gmail.com
 
+<table width="100%">
+  <tr>
+    <!-- Column 1: Main Stats Card -->
+    <td width="50%" align="center" valign="top">
+      <img src="https://vercel.app" alt="Stats Card" />
+    </td>
+    <!-- Column 2: Top Languages Card -->
+    <td width="50%" align="center" valign="top">
+      <img src="https://vercel.app" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Column 3: Streak / Activity Tracker -->
+    <td colspan="2" align="center" valign="top">
+      <br />
+      <img src="https://herokuapp.com" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+
 <!---
 sksannifuddin/sksannifuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
