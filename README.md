@@ -1,10 +1,11 @@
 # Hi, I'm Sk Sannifuddin 👋
 
-🎓 AI & Data Science Student
+### AI & Data Science Student
 
-💻 Currently Preparing For Placements 2027
+🚀 Currently Preparing For Placements 2027
 
-🚀 Learning:
+### Tech Stack
+
 - Python
 - SQL
 - NumPy
@@ -14,20 +15,40 @@
 - NLP
 - Generative AI
 
-📚 Current Goal:
-Become Placement Ready Before December 2026
+### Current Focus
 
-🏆 Current Repository:
-placement-preparation-2027
+📚 Placement Preparation 2027
 
-📫 Email:
-sksannifuddin04@gmail.com
+🎯 Goal: Become Industry Ready Before December 2026
 
-## GitHub Statistics
+📈 Daily Coding & Project Development
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sksannifuddin&show_icons=true&theme=tokyonight)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sksannifuddin&layout=compact&theme=tokyonight)
+### GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sksannifuddin&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksannifuddin&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+### Featured Repositories
+
+⭐ placement-preparation-2027
+
+⭐ food-delivery
+
+⭐ trgbananas
+
+---
+
+### Connect With Me
+
+📧 sksannifuddin04@gmail.com
+
+💼 Aspiring AI/ML Engineer
 
 <!---
 sksannifuddin/sksannifuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
