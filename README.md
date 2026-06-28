@@ -110,8 +110,8 @@ Daily updates covering:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sksannifuddin&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksannifuddin&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=sksannifuddin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksannifuddin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
