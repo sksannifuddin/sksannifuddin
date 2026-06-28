@@ -110,11 +110,8 @@ Daily updates covering:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sksannifuddin&show_icons=true&theme=radical&hide_border=true" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksannifuddin&layout=compact&theme=radical&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksannifuddin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
