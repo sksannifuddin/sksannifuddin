@@ -85,12 +85,9 @@
 </div>
 
 ### 🔥 GitHub Streak
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sksannifuddin&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sksannifuddin&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
 </div>
-
----
 
 ## 📫 Let's Connect
 
