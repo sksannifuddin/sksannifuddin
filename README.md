@@ -4,7 +4,7 @@
 
 ### 🤖 AI & Data Science Student | Future ML Engineer
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Python+%7C+SQL+%7C+Machine+Learning;Deep+Learning+%7C+NLP+%7C+GenAI;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" alt="Typing SVG"/></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Python+%7C+SQL+%7C+Machine+Learning;Deep+Learning+%7C+NLP+%7C+GenAI;Learning+%E2%80%A2+Building+%E2%80%A2+Growing)](https://git.io/typing-svg)
 
 🚀 **Preparing for Placements 2027**
 
@@ -63,10 +63,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,js,mysql,tensorflow,git,github,vscode,jupyter"/>
-
 ---
 
 ## 🧭 Current Focus
@@ -82,23 +78,16 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
-
-### 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=sksannifuddin&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
-
-<br>
-
-### 📅 Contribution Calendar
-
-<img src="https://ghchart.rshah.org/6C63FF/sksannifuddin" alt="GitHub contribution chart"/>
-
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksannifuddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
----
+### 🔥 GitHub Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sksannifuddin&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+</div>
 
 ## 📫 Let's Connect
 
@@ -113,7 +102,5 @@
 ---
 
 <div align="center">
-
-**Code. Learn. Build. Repeat.**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&text=Code.%20Learn.%20Build.%20Repeat.&fontSize=20&fontColor=white&fontAlignY=70" />
 </div>
