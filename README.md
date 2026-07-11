@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hey, I'm Sk Sannifuddin
-
 ### 🤖 AI & Data Science Student | Future ML Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Python+%7C+SQL+%7C+Machine+Learning;Deep+Learning+%7C+NLP+%7C+GenAI;Learning+%E2%80%A2+Building+%E2%80%A2+Growing)](https://git.io/typing-svg)
@@ -13,7 +12,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 - 🎓 **AI & Data Science** Undergraduate
 - 💻 Currently mastering **Python**, **Data Analysis** and **Machine Learning**
 - 📚 Building projects daily and documenting my learning journey
@@ -23,7 +21,6 @@
 ---
 
 ## ⚡ Quick Facts
-
 | Category | Details |
 |:---:|:---:|
 | 📍 Location | India |
@@ -65,10 +62,21 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sksannifuddin&theme=tokyonight&hide_border=true" />
+
+
+
+</div>
+
+---
+
 ## 🧭 Current Focus
 
 ### ⭐ [`placement-preparation-2027`](https://github.com/sksannifuddin/placement-preparation-2027)
-
 > Daily updates covering my full placement prep journey
 
 | ✅ Python | ✅ NumPy | ✅ Pandas |
@@ -77,7 +85,6 @@
 | ✅ Machine Learning | 🔄 Deep Learning | 🔄 NLP |
 
 ---
-
 
 ## 📫 Let's Connect
 
