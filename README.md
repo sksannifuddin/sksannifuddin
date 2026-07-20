@@ -62,18 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sksannifuddin&theme=tokyonight&hide_border=true" />
-
-
-
-</div>
-
----
-
 ## 🧭 Current Focus
 
 ### ⭐ [`placement-preparation-2027`](https://github.com/sksannifuddin/placement-preparation-2027)
